@@ -3,8 +3,11 @@ In this repository we include the implementation of different quantum algorithms
 
 # Folders
 Each of the folders H1, H2 and H3 contains a different set of quantum algorithms:
+
 H1: Bell state measurement, Quantum Teleportation, Quantum Plain Adder, Carry Circuit, Sum Circuit and we study the Deutsch Algorithm for four different unitaries. 
+
 H2: Shor's Algoritm, Steane 7-qubit code, and F-T Bell state measurement. 
+
 H3: Ninja Star, Shor's algorithm encoding using different schedulers.
 
 For more information, consult the corresponding .pdf files in each folder.
